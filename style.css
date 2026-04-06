@@ -9,10 +9,11 @@ body {
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
+  background-color: rgb(13, 10, 60);
 }
 
 body * {
-  color: rgb(13, 10, 60);
+  color: rgb(255, 255, 255);
 }
 
 #container {
